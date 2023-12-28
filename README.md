@@ -16,7 +16,7 @@ The Reviews project is a web application that showcases customer reviews. It all
 
 ## Demo
 
-You can view the project live at Reviews Demo
+You can view the project live at [Reviews Demo](https://user-reviews-html-dom-vanilla-js.netlify.app/)
 
 ## Features
 
